@@ -1,2 +1,2 @@
 def salut():
-    return "Salut din ramura A"
+    return "Salut din ramura B"
